@@ -2,6 +2,14 @@ nav{
 background-color:#e42529;
 }
 
+h2{
+   color:#e42529; 
+}
+
+body{
+  margin-left: 15px;  
+}
+
 .navbar {
     padding: 35px; 
 }
